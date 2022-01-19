@@ -1,0 +1,13 @@
+#all installed dependencies and packages
+node_modules
+
+#error log of npm 
+npm-debug.log
+
+#environment variables
+.env
+package-lock.json
+serviceAccount.json
+
+#deploy.sh
+deploy.sh
